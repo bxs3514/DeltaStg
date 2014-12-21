@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ slick-util.jar lwjgl.jar slick.jar lwjgl_util.jar
+Class-Path: .
+Rsrc-Main-Class: deltastg.Program
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
